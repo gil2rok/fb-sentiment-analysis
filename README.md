@@ -20,7 +20,7 @@ From this exploratory data analysis, we concluded, first and formost, that UChic
 
 Second, we concluded that generally as the school year wore on, the posts got more and more negative, suggesting that the longer students spent in school, the unhappier they were (to the extent that you can infer happiness from this data). 
 
-#### Limitations
+### Limitations
 First and foremost, we need more data to draw stronger conclusions. Although this was a lot of fun, to produce more meaningful results, we need to collect posts from more schools. Unfortunately, due to time constraints, we were unable to do so. Second, further investigation is needed to examine the correlation between Facebook posts and actual student body happiness. Although a correlation makes sense, there are many other factors to consider (only emotionally-charged students post, online personas not reflecting reality, sensationalism, etc.).
 
 ### Conclusion
