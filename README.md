@@ -1,6 +1,6 @@
 # Secrets_NLP
 ### Overview
-Sentiment analysis on annonymous Facebook posts at top tier colleges, categorizing the negativity of different academic environments. This project was done by Gilad Turok, Philip Chenaux-Repond, and Issac Restrick during University of Chicago's Uncommon Hacks Hachathon in March of 2020. 
+Natural Language Processing (NLP) sentiment analysis on annonymous Facebook posts at top tier colleges, categorizing the negativity of different academic environments. This project was done by Gilad Turok, Philip Chenaux-Repond, and Issac Restrick during University of Chicago's Uncommon Hacks Hachathon in March of 2020. 
 
 ### Methodology
 To study this effect, we first had to obtain the necessary data. We wanted to look at the annoymous confessions pages on Facebook from different top-tier universities. We chose this source of information because of its honesty and aggregation of a lot of information from many students in one place. We decided to use the confession pages of Caltech, Stanford, MIT, Columbia, and Uchicago because they (largely) had posts stretching back the farthest in time. We wanted to investigate more schools but were limited by the amount of time it took to scape this information.
