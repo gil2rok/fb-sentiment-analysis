@@ -1,4 +1,4 @@
-# Facebook Sentiment Analysis
+# Sentiment Analysis of College Facebook Confession Pages
 
 ### Overview
 Natural Language Processing (NLP) sentiment analysis on annonymous Facebook posts at top tier colleges, categorizing the negativity of different academic environments. The University of Chicago's confessions page is called UChicago Secrets -- hence the name of this repo. This project was done by Gilad Turok, Philip Chenaux-Repond, and Issac Restrick during University of Chicago's Uncommon Hacks Hachathon in March of 2020. 
